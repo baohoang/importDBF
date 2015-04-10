@@ -31,6 +31,11 @@
 			<artifactId>struts2-json-plugin</artifactId>
 			<version>${struts2.version}</version>
 		</dependency>
+		<dependency>
+			<groupId>org.jamel.dbf</groupId>
+			<artifactId>dbf-reader</artifactId>
+			<version>0.1.0</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<finalName>importdbf</finalName>
